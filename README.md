@@ -7,6 +7,9 @@
 ## Login Github
 ![Login](./src/img1.JPG)
 
+## Hasil dapat dilihat pada netlify.app
+[Netlify.app](https://hungry-leavitt-46f95c.netlify.app/)
+
 # Tes Simple App Debugging
 ## Setelah melakukan clone repository, saya mencoba untuk start aplikasi dengan npm start namun hasilnya error (menggunakan visual studio code). 
  Lalu solusi yang dilakukan adalah melakukan nmp install ulang
@@ -15,4 +18,5 @@
 ## Yang Ketiga adalah tombol Sign in with github jika di klik akan mengarah pada page not found 404, lalu saya mengganti code dengan 
 const popup = (this.popup = PopupWindow.open("github-oauth-authorize", `https://github.com/login?${search}`
 yang hasilnya jika tombol sign in ditekan akan masuk ke halaman login github.
+
 
