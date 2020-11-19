@@ -3,7 +3,9 @@
 ![expected](./expected.png
 
 ## Hasil
-![Hasil](./img.jpg)
+![Hasil](./src/img.jpg)
+## Login Github
+![Login](./src/img1.jpg)
 
 # Tes Simple App Debugging
 ## Setelah melakukan clone repository, saya mencoba untuk start aplikasi dengan npm start namun hasilnya error (menggunakan visual studio code). 
